@@ -1,0 +1,29 @@
+Meus Cortes – Terms of Service
+
+Effective date: November 26, 2026
+
+1. About the app
+"Meus Cortes" is a personal desktop tool that runs on the user's own Windows computer. It edits short clips from the user's own live streams and lets the user publish or schedule those clips to the user's own TikTok account through TikTok's official Content Posting API.
+
+2. Acceptance
+By using the app you agree to these Terms and to TikTok's Terms of Service, Community Guidelines and Music Usage Confirmation.
+
+3. Your account and your content
+- You connect your TikTok account yourself, through TikTok's official login screen. You can disconnect at any time inside the app or in your TikTok settings.
+- You choose the caption, the privacy level and the interaction settings of every post before it is published. Nothing is posted without your action or your schedule.
+- You are solely responsible for the content you publish and must hold all rights needed to publish it (including rights to images, audio and music).
+
+4. Acceptable use
+You must not use the app to post spam, misleading content, content you do not have rights to, or anything that violates TikTok's rules or applicable law.
+
+5. No warranty
+The app is provided "as is", without warranties of any kind. Publishing depends on TikTok's services, which may change, limit or refuse posts at any time.
+
+6. Limitation of liability
+To the extent permitted by law, the developer is not liable for any loss arising from the use of the app, including removed posts, account restrictions or lost data.
+
+7. Changes
+These Terms may be updated. The effective date above shows the latest version.
+
+8. Contact
+[YOUR CONTACT E-MAIL]

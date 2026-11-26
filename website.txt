@@ -1,0 +1,17 @@
+Meus Cortes
+
+A personal desktop tool for Windows that turns my live streams into short vertical clips and publishes or schedules them to my own TikTok account.
+
+What it does
+- Finds the best moments of a stream and creates 9:16 clips with captions.
+- Lets me review and edit each clip, caption and hashtags.
+- Publishes or schedules the clips to my TikTok account using TikTok's official Content Posting API, after I log in with TikTok and choose the privacy and interaction settings of every post.
+
+How it works
+The app runs entirely on my computer. Videos and settings stay on my computer and are sent only to TikTok when I publish them. TikTok access is encrypted locally and can be removed at any time.
+
+Legal
+Terms of Service: [LINK DOS TERMOS]
+Privacy Policy: [LINK DA PRIVACIDADE]
+
+Contact: [YOUR CONTACT E-MAIL]

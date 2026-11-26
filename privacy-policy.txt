@@ -1,0 +1,37 @@
+Meus Cortes – Privacy Policy
+
+Effective date: November 26, 2026
+
+1. Summary
+"Meus Cortes" is a desktop app that runs entirely on the user's own Windows computer. The developer does not operate any server that receives, stores or sells your data.
+
+2. Data the app accesses
+When you connect your TikTok account through TikTok's official login, the app receives, with your permission:
+- Basic profile information (display name, username and avatar), used only to show which account will receive the post.
+- Access tokens that allow the app to publish or upload videos to your account (scopes: user.info.basic, video.upload, video.publish).
+
+3. How data is used
+The data is used only to:
+- show the connected account in the app;
+- upload and publish the videos you selected, at the time you chose, with the caption and settings you chose;
+- check the publishing status of those videos.
+
+4. Where data is stored
+- Videos, captions, schedules and settings are stored only on your computer.
+- TikTok access tokens and app keys are stored only on your computer, encrypted with Windows data protection (DPAPI).
+- Videos are sent only to TikTok, through TikTok's official API, when you publish them.
+
+5. Sharing
+The developer does not sell, rent or share your data with third parties. Data is exchanged only between your computer and TikTok.
+
+6. Retention and deletion
+You can disconnect your TikTok account at any time inside the app, which deletes the stored tokens. Uninstalling the app removes its files from your computer. You can also revoke the app's access in your TikTok account settings.
+
+7. Children
+The app is not intended for users under the minimum age required by TikTok.
+
+8. Changes
+This policy may be updated. The effective date above shows the latest version.
+
+9. Contact
+[YOUR CONTACT E-MAIL]
