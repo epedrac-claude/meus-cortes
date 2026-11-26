@@ -11,7 +11,7 @@ How it works
 The app runs entirely on my computer. Videos and settings stay on my computer and are sent only to TikTok when I publish them. TikTok access is encrypted locally and can be removed at any time.
 
 Legal
-Terms of Service: [LINK DOS TERMOS]
-Privacy Policy: [LINK DA PRIVACIDADE]
+Terms of Service: https://epedrac-claude.github.io/meus-cortes/terms.html
+Privacy Policy: https://epedrac-claude.github.io/meus-cortes/privacy.html
 
-Contact: [YOUR CONTACT E-MAIL]
+Contact: edupedrac@gmail.com
